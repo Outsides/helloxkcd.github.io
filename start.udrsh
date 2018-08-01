@@ -1,2 +1,2 @@
 #! /bin/bash
-python user.py | ./debug.udrsh
+./user.py | ./debug.udrsh
